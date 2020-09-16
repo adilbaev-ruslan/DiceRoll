@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRoll</string>
+    <string name="secon_player_ball">2-player ball</string>
+    <string name="first_player_ball">1-player ball</string>
+</resources>
